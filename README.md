@@ -9,7 +9,7 @@
 
 #### useState
 
-1. Birthday Reminder [Project Link](https://romantic-liskov-8b9ef3.netlify.app/)
+1. [Birthday Reminder](https://romantic-liskov-8b9ef3.netlify.app/)
 
 #### useEffect and Conditional Rendering
 
