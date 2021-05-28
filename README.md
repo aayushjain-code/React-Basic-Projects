@@ -3,13 +3,13 @@
 
 #### All Projects
 
-[Projects Site]()
+<!-- [Projects Site]() -->
 
 ## Corresponding Tutorial Topics
 
 #### useState
 
-1. Birthday Reminder
+1. Birthday Reminder [Project Link](https://romantic-liskov-8b9ef3.netlify.app/)
 
 #### useEffect and Conditional Rendering
 
