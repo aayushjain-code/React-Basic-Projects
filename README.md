@@ -13,7 +13,7 @@
 
 #### useEffect and Conditional Rendering
 
-2. Tours
+2. [Tours](https://trips-listing.netlify.app/)
 3. Reviews
 4. Questions
 5. Menu
