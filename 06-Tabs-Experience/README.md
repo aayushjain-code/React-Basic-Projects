@@ -1,4 +1,4 @@
 # Tabs-for-Experience
-## Live Preview https://brave-albattani-2f8569.netlify.app/
+## Live Preview https://sleepy-bassi-6c32fc.netlify.app/
 ### ScreenShot
-<img src="./aa.png">
+<img src="./ss1.png">
